@@ -1,0 +1,1983 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HomePress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-05 06:57+0000\n"
+"PO-Revision-Date: 2019-08-05 07:00+0000\n"
+"Last-Translator: admin <dl@stylemix.net>\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: en_US\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2\n"
+"X-Loco-Parser: loco_parse_po"
+
+#: ulisting/listing-single/item-meta/parts/published.php:4
+msgid " ago"
+msgstr ""
+
+#: inc/admin/product_registration/screens/system_status.php:137
+#: inc/admin/product_registration/screens/system_status.php:173
+#: inc/admin/product_registration/screens/system_status.php:202
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Max input vars limitation will truncate "
+"POST data such as menus. See: <a href=\"%3$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Increasing max input vars limit.</a>"
+msgstr ""
+"%1$s – empfohlener Wert: %2$s.<br />Eingabevariablenmaximum beschneidet POST-"
+"Data wie z.B. Menüs. Siehe: <a href=\"%3$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Erhöhen des Eingabevariablenmaximums</a>"
+
+#: inc/admin/product_registration/screens/system_status.php:217
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Post Max Value Length limitation may "
+"prohibit the Theme Options data from being saved to your database. See: <a "
+"href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">Suhosin "
+"Configuration Info</a>."
+msgstr ""
+"%1$s – empfohlener Wert: %2$s.<br />Das „Post-Werthöchstlänge“-Limit "
+"verhindert evtl. \" \"die Abspeicherung der „Theme-Optionen“-Daten auf der "
+"Datenbank. Siehe: <a href=\"%3$s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Suhosin \" \"Konfigurationsinfo</a>"
+
+#: inc/admin/product_registration/screens/system_status.php:105
+#, php-format
+msgid ""
+"%1$s - We recommend setting max execution time to at least 180. <br /> To "
+"import classic demo content, <strong>300</strong> seconds of max execution "
+"time is required.<br />See: <a href=\"%2$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Increasing max execution to PHP</a>"
+msgstr ""
+"%1$s – Wir empfehlen, das Ausführungsdauermaximum auf mindestens 180 zu "
+"setzen. <br /> Um klassischen Demo-Content zu importieren, ist ein "
+"Ausführungsdauermaximum von <strong>300</strong>  Sekunden erforderlich.<br "
+"/>Siehe: <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">"
+"Erhöhen des Ausführung-zu-PHP-Maximums</a>"
+
+#: inc/template/comments.php:32
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s bei %2$s"
+
+#: inc/admin/product_registration/screens/support.php:15
+#, php-format
+msgid ""
+"%s comes with 6 months of free support for every license you purchase. "
+"Support can be extended through subscriptions via ThemeForest."
+msgstr ""
+"%s gibt’s mit 6 Monaten kostenlosem Support für jede erworbene Lizenz. Der "
+"Support lässt sich via Abo von ThemeForest verlängern."
+
+#: partials/footer/footer-default.php:17
+msgid "&copy; "
+msgstr "&copy; "
+
+#: partials/post/parts/info.php:18
+msgid ", "
+msgstr ", "
+
+#: 404.php:29
+msgid "404"
+msgstr "404"
+
+#: inc/admin/product_registration/screens/startup.php:73
+msgid ""
+"A new page will load with a token number in a box. Copy the token number "
+"then come back to this registration page and paste it into the field below "
+"and click the <strong>Submit</strong> button."
+msgstr ""
+"Eine neue Seite lädt dann mit einer Token-Nummer in einer Box. Kopieren Sie "
+"die \" \"Token-Nummer, und fügen Sie sie auf dieser Registrierungsseite in "
+"das untenstehende Feld ein. Klicken Sie dann auf den <strong>"
+"Einreichen</strong>-Button."
+
+#: ulisting/account/edit-profile.php:149
+msgid "About Me"
+msgstr "Über mich"
+
+#: ulisting/account/saved-searches.php:23
+msgid "Action"
+msgstr "Aktion"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:131
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:345
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:68
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:346
+#, php-format
+msgid "Activate %s"
+msgstr "%s aktivieren"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:131
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:68
+#, php-format
+msgid "Activate &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221; aktivieren"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:107
+msgid "Activate Plugin"
+msgstr "Plug-In aktivieren"
+
+#: inc/admin/product_registration/screens/system_status.php:249
+#: inc/admin/product_registration/screens/system_status.php:254
+msgid "Active Plugins"
+msgstr "Aktive Plug-Ins"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/partials/intro.php:19
+msgid "Active Theme"
+msgstr "Aktives Theme"
+
+#: ulisting/comment/comment.php:19
+msgid "Add a review"
+msgstr "Eine Bewertung hinzufügen"
+
+#: ulisting/account/my-card.php:83
+msgid "Add Card"
+msgstr "Karte hinzufügen"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/callback/section/items.php:10
+msgid ""
+"Add Envato Market themes & plugins using multiple OAuth tokens. This is "
+"especially useful when an item has been purchased on behalf of a third-party."
+" This works similarly to the global OAuth Personal Token, but for individual "
+"items and additionally requires the Envato Market item ID."
+msgstr ""
+"Fügen Sie mittels OAuth-Tokens Envato Market-Themes und -Plug-Ins hinzu. "
+"Dies ist speziell dann nützlich, wenn ein Artikel im Auftrag einer "
+"Drittpartei erworben wurde. Das Ganze funktioniert ähnlich wie der globale "
+"OAuth-Personal-Token, bloß für individuelle Artikel, wobei zusätzlich eine "
+"Envato Market-Artikel-ID benötigt wird."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:424
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/callback/setting/items.php:37
+msgid "Add Item"
+msgstr "Artikel hinzufügen"
+
+#: ulisting/account/my-listing.php:197
+msgid "Add listing"
+msgstr "Listing hinzufügen"
+
+#: ulisting/add-listing/add.php:28
+msgid "Add New Property"
+msgstr "Neue Eigenschaft hinzufügen"
+
+#: inc/template/setup.php:50 inc/template/setup.php:60
+#: inc/template/setup.php:70 inc/template/setup.php:80
+#: inc/template/setup.php:90
+msgid "Add widgets here."
+msgstr "Hier Widgets hinzufügen."
+
+#: ulisting/account/edit-profile.php:111
+msgid "Address"
+msgstr "Adresse"
+
+#: ulisting/filter/search_form_category_styles/style_1.php:217
+#: ulisting/filter/search_form_category_styles/style_1.php:256
+#: ulisting/filter/search_form_category_styles/style_2.php:206
+#: ulisting/filter/search_form_category_styles/style_2.php:246
+#: ulisting/filter/search_form_category_styles/style_3.php:213
+#: ulisting/filter/search_form_category_styles/style_3.php:256
+msgid "Advanced search"
+msgstr "Fortgeschrittene Suche"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/notice/success-single-use.php:11
+msgid "All Single Use OAuth Personal Tokens have been verified."
+msgstr "Alle Single-Use-OAuth-Personal-Tokens sind verifiziert worden."
+
+#: ulisting/pricing-plan/payment.php:61 ulisting/pricing-plan/payment.php:90
+msgid "All transactions are secure and encrypted."
+msgstr "Sämtliche Transaktionen sind abgesichert und verschlüsselt."
+
+#: ulisting/calc/mortgage_calc.php:39
+msgid "Amortization Period"
+msgstr "Amortisierungsperiode"
+
+#: ulisting/account/payment-history.php:42
+#: ulisting/account/payment-history.php:55
+msgid "Amount"
+msgstr "Betrag"
+
+#: inc/admin/product_registration/includes/envato-market/inc/api.php:135
+msgid "An API token is required."
+msgstr "Es wird ein API-Token benötigt."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:823
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:882
+msgid "An error occurred, please check that the item ID is correct."
+msgstr ""
+"Es ist ein Fehler aufgetreten. Bitte prüfen Sie, ob die Artikel-ID stimmt."
+
+#: inc/admin/product_registration/includes/envato-market/inc/api.php:148
+#: inc/admin/product_registration/includes/envato-market/inc/api.php:152
+msgid "An unknown API error occurred."
+msgstr "Ein unbekannter API-Fehler ist aufgetreten."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:1078
+msgid "An unknown error occurred."
+msgstr "Ein unbekannter Fehler ist aufgetreten."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:366
+msgid "An unknown error occurred. Try again."
+msgstr "Ein unbekannter Fehler ist aufgetreten. Bitte erneut probieren."
+
+#: ulisting/listing-compare/compare-page.php:36
+msgid "Attributes"
+msgstr "Attribute"
+
+#: ulisting/comment/comment.php:60 ulisting/account/edit-profile.php:40
+msgid "Avatar"
+msgstr "Avatar"
+
+#: ulisting/account/my-plans/list.php:87
+msgid "But you can buy them."
+msgstr "Aber Sie können sie kaufen."
+
+#: ulisting/account/my-listing.php:196
+msgid "But you can create them."
+msgstr "Aber Sie können Sie kreieren."
+
+#: ulisting/pricing-plan/list.php:33 ulisting/pricing-plan/list.php:62
+msgid "Buy Now"
+msgstr "Jetzt kaufen"
+
+#: ulisting/pricing-plan/payment.php:82 ulisting/pricing-plan/payment.php:111
+#: ulisting/account/my-listing.php:147 ulisting/add-listing/form.php:164
+#: ulisting/add-listing/form.php:241 ulisting/account/my-plans/list.php:88
+msgid "Buy plan"
+msgstr "Preismodell erwerben"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:198
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:408
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:465
+msgid "By"
+msgstr "Von"
+
+#: inc/admin/product_registration/screens/system_status.php:285
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr "von %s"
+
+#: partials/single/post/parts/info.php:18
+msgid "by:"
+msgstr "von:"
+
+#: ulisting/profile/profile_form/style_1.php:19
+#: ulisting/profile/profile_phone/style_1.php:9
+msgid "Call:"
+msgstr "Anrufen:"
+
+#: ulisting/account/my-plans/detail.php:80
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:365
+msgid "Cancel"
+msgstr "Stornieren"
+
+#: partials/post/parts/info.php:17
+msgid "Categories:"
+msgstr "Kategorien:"
+
+#: ulisting/add-listing/form.php:42
+msgid "Category"
+msgstr "Kategorie"
+
+#: ulisting/account/edit-profile.php:208
+msgid "Change Password"
+msgstr "Passwort ändern"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:164
+msgid "Changelog"
+msgstr "Change-Log"
+
+#: inc/admin/product_registration/includes/envato-market/envato-market.php:161
+#: inc/admin/product_registration/includes/envato-market/envato-market.php:172
+#: inc/admin/product_registration/includes/envato-market/inc/items.php:104
+#: inc/admin/product_registration/includes/envato-market/inc/items.php:115
+#: inc/admin/product_registration/includes/envato-market/inc/github.php:91
+#: inc/admin/product_registration/includes/envato-market/inc/github.php:102
+#: inc/admin/product_registration/includes/envato-market/inc/api.php:84
+#: inc/admin/product_registration/includes/envato-market/inc/api.php:95
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:81
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:92
+msgid "Cheatin&#8217; huh?"
+msgstr "Schummel-Lise, wa?"
+
+#: ulisting/pricing-plan/payment.php:30
+msgid "Checkout"
+msgstr "Kasse"
+
+#: inc/admin/product_registration/screens/startup.php:71
+#, php-format
+msgid ""
+"Click on this <a href=\"%s\" target=\"_blank\">Generate A Personal Token</a> "
+"link. <strong>IMPORTANT:</strong> You must be logged into the same "
+"Themeforest account that purchased %s. If you are logged in already, look in "
+"the top menu bar to ensure it is the right account. If you are not logged in,"
+" you will be directed to login then directed back to the Create A Token Page."
+msgstr ""
+"Klicken Sie auf diesen <a href=\"%s\" target=\"_blank\">„Generate A Personal "
+"Token“</a>-Link („Ein persönliches Token generieren“). <strong>WICHTIG:"
+"</strong> Sie müssen im selben Themeforest-Nutzerkonto eingeloggt sein, mit "
+"dem %s erworben wurde. Falls Sie bereits eingeloggt sind, schauen Sie bitte "
+"in der oberen Menüleiste nach, ob es sich um das korrekte Nutzerkonto "
+"handelt. Falls Sie noch nicht eingeloggt sind, so werden Sie zum Log-In "
+"weitergeleitet und anschließend von dort zurück auf die „Create A Token“-"
+"Seite („Ein Token erstellen“)."
+
+#: comments.php:27
+msgid "Comment navigation"
+msgstr "Kommentarnavigation"
+
+#: comments.php:49
+msgid "Comments are closed."
+msgstr "Kommentare geschlossen."
+
+#: inc/admin/product_registration/screens/support.php:84
+#: inc/admin/product_registration/screens/support.php:86
+msgid "Community Forum"
+msgstr "Community-Forum"
+
+#: ulisting/listing-compare/compare-page.php:8
+#: ulisting/listing-compare/compare-page.php:94
+msgid "Compare"
+msgstr "Vergleichen"
+
+#: ulisting/account/edit-profile.php:226 ulisting/account/edit-profile.php:227
+msgid "Confirmation new password"
+msgstr "Bestätigung d. neuen Passworts"
+
+#: author.php:192
+msgid "Contact Form"
+msgstr "Kontaktformular"
+
+#: inc/admin/product_registration/screens/support.php:18
+msgid "Create A Support Account"
+msgstr "Einen Support-Account erstellen"
+
+#: ulisting/add-listing/listing-type.php:23 ulisting/add-listing/form.php:110
+#: ulisting/add-listing/form.php:227
+msgid "Create Listing"
+msgstr "Listing erstellen"
+
+#: ulisting/account/payment-history.php:43
+#: ulisting/account/payment-history.php:56
+#: ulisting/account/my-plans/list.php:43 ulisting/account/my-plans/list.php:56
+msgid "Created"
+msgstr "Erstellt"
+
+#: ulisting/account/my-plans/detail.php:59
+msgid "Created date"
+msgstr "Erstellungsdatum"
+
+#: inc/admin/product_registration/screens/system_status.php:109
+msgid ""
+"Current time limit is sufficient, but if you need import demo content, the "
+"required time is <strong>300</strong>."
+msgstr ""
+"Das aktuelle Zeitlimit ist zwar ausreichend, doch falls Sie Demo-Content "
+"importieren wollen, ist eine Dauer von <strong>300</strong> erforderlich."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:104
+msgid "Customize"
+msgstr "Nach Wunsch anpassen"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:104
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221; nach Wunsch anpassen"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:318
+msgid "Deactivate"
+msgstr "Deaktivieren"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:319
+#, php-format
+msgid "Deactivate %s"
+msgstr "%s deaktivieren"
+
+#: ulisting/account/my-card.php:47
+msgid "Default"
+msgstr "Standard"
+
+#: inc/admin/product_registration/screens/system_status.php:211
+msgid ""
+"Defines the maximum length of a variable that is registered through a POST "
+"request."
+msgstr ""
+"Definiert die maximale Variablenlänge, die mittels POST-Request registriert "
+"wird."
+
+#: ulisting/account/my-card.php:62
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:331
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:397
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/callback/setting/items.php:24
+msgid "Delete"
+msgstr "Löschen"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:332
+#, php-format
+msgid "Delete %s"
+msgstr "%s löschen"
+
+#: inc/admin/product_registration/includes/admin_screens.php:32
+#: inc/admin/product_registration/includes/admin_screens.php:33
+msgid "Demo import"
+msgstr "Demo-Import"
+
+#: ulisting/account/my-plans/list.php:58
+msgid "Detail"
+msgstr "Detail"
+
+#: inc/admin/product_registration/screens/system_status.php:59
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr "Zeigt an, ob sich WordPress im Debug-Modus befindet oder nicht."
+
+#: inc/admin/product_registration/screens/support.php:47
+#: inc/admin/product_registration/screens/support.php:49
+msgid "Documentation"
+msgstr "Dokumentierung"
+
+#: ulisting/add-listing/listing-type.php:24 ulisting/add-listing/form.php:111
+#: ulisting/add-listing/form.php:228
+msgid "Done"
+msgstr "Fertig"
+
+#: ulisting/calc/mortgage_calc.php:31
+msgid "Down Payment"
+msgstr "Anzahlung"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader.php:48
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader.php:89
+msgid "Downloading the Envato Market install package&#8230;"
+msgstr "Das Envato Market-Installationspaket wird installiert&#8230;"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader.php:36
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader.php:77
+msgid "Downloading the Envato Market upgrade package&#8230;"
+msgstr "Das Envato Market-Upgrade-Paket wird installiert&#8230;"
+
+#: ulisting/pricing-plan/payment.php:48 ulisting/pricing-plan/list.php:29
+#: ulisting/pricing-plan/list.php:58
+msgid "Duration"
+msgstr "Dauer"
+
+#: ulisting/account/my-listing.php:119 inc/template/comments.php:34
+msgid "Edit"
+msgstr "Editieren"
+
+#: ulisting/account/dashboard.php:108 inc/template/ulisting-hooks.php:1509
+msgid "Edit account"
+msgstr "Nutzerkonto editieren"
+
+#: ulisting/add-listing/edit.php:27 ulisting/add-listing/form.php:256
+msgid "Edit Property"
+msgstr "Eigenschaft editieren"
+
+#: ulisting/account/register.php:45 ulisting/account/edit-profile.php:67
+#: ulisting/listing-single/item-meta/parts/useful_links.php:3
+msgid "Email"
+msgstr "E-Mail"
+
+#: inc/admin/product_registration/screens/startup.php:72
+msgid ""
+"Enter a name for your token, then check the boxes for <strong>View Your "
+"Envato Account Username, Download Your Purchased Items, Verify Purchases "
+"You've Made</strong> and <strong>List Purchases You've Made</strong> from "
+"the permissions needed section. Check the box to agree to the terms and "
+"conditions, then click the <strong>Create Token button</strong>"
+msgstr ""
+"Geben Sie für Ihr Token bitte einen Namen ein, und aktivieren Sie dann die "
+"Kästchen für <strong>„View Your Envato Account Username“ („Ihren Envato "
+"Nutzerkontonamen anschauen“), „Download Your Purchased Items“ („Ihre "
+"erworbenen Artikel herunterladen“), „Verify Purchases You've Made“ („Ihre "
+"getanen Einkäufe verifizieren“)</strong> und <strong>„List Purchases You've "
+"Made“ („Ihre getanen Einkäufe auflisten“)</strong> aus der "
+"Autorisierungssektion. Stimmen Sie den AGB zu, indem Sie das entspr. "
+"Kästchen aktivieren, und klicken Sie dann auf den <strong>„Create Token“-"
+"Button („Token erstellen“).</strong>"
+
+#: ulisting/account/edit-profile.php:153
+msgid "Enter about me"
+msgstr "„Über mich“-Infos eingeben"
+
+#: ulisting/account/edit-profile.php:115
+msgid "Enter address"
+msgstr "Adresse eingeben"
+
+#: ulisting/account/register.php:46 ulisting/account/edit-profile.php:71
+msgid "Enter email"
+msgstr "E-Mail-Adr. eingeben"
+
+#: ulisting/account/edit-profile.php:108
+msgid "Enter fax"
+msgstr "Fax-Nr. eingeben"
+
+#: ulisting/account/register.php:36 ulisting/account/edit-profile.php:53
+msgid "Enter first name"
+msgstr "Vornamen eingeben"
+
+#: ulisting/account/register.php:41 ulisting/account/edit-profile.php:62
+msgid "Enter last name"
+msgstr "Nachnamen eingeben"
+
+#: ulisting/account/edit-profile.php:122
+msgid "Enter latitude"
+msgstr "Breitengrad eingeben"
+
+#: ulisting/account/edit-profile.php:136
+msgid "Enter license"
+msgstr "Lizenz eingeben"
+
+#: ulisting/account/login.php:22 ulisting/account/register.php:31
+#: ulisting/account/login_register.php:21
+msgid "Enter login"
+msgstr "Log-In eingeben"
+
+#: ulisting/account/edit-profile.php:129
+msgid "Enter longitude"
+msgstr "Längengrad eingeben"
+
+#: ulisting/account/edit-profile.php:94
+msgid "Enter mobile phone"
+msgstr "Mobilrufnr. eingeben"
+
+#: ulisting/account/edit-profile.php:101
+msgid "Enter office phone"
+msgstr "Büro-Telefon-Nr. eingeben"
+
+#: ulisting/account/login.php:30 ulisting/account/register.php:56
+#: ulisting/account/login_register.php:29
+msgid "Enter password"
+msgstr "Passwort eingeben"
+
+#: ulisting/account/edit-profile.php:143
+msgid "Enter tax number"
+msgstr "Steuernummer eingeben"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:429
+msgid "Enter the Envato API Personal Token."
+msgstr "Bitte den Envato API-Personal-Token eingeben."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:432
+msgid "Enter the Envato Item ID."
+msgstr "Bitte die Envato Item-ID eingeben."
+
+#: ulisting/account/edit-profile.php:80
+msgid "Enter username"
+msgstr "Nutzernamen eingeben"
+
+#: ulisting/account/edit-profile.php:87
+msgid "Enter website"
+msgstr "Website eingeben"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/callback/setting/token.php:13
+msgid "Enter your Envato API Personal Token."
+msgstr "Bitte Ihren Envato API-Personal-Token eingeben."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/partials/intro.php:12
+msgid "Envato Market"
+msgstr "Envato Market"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:521
+msgid "Envato Market Items"
+msgstr "Envato Market-Artikel"
+
+#: ulisting/calc/calc_link.php:3
+msgid "Est. Mortgage calculator"
+msgstr ""
+
+#: ulisting/calc/mortgage_calc.php:57
+msgid "Estimated, not including taxes and insurance."
+msgstr "Schätzung vor Steuern und ohne Versicherung."
+
+#: ulisting/account/my-plans/list.php:42 ulisting/account/my-plans/list.php:55
+msgid "Expired"
+msgstr "Abgelaufen"
+
+#: ulisting/account/my-plans/detail.php:51
+msgid "Expired date"
+msgstr "Ablaufdatum"
+
+#: ulisting/account/my-card.php:48
+msgid "Expired:"
+msgstr "Abgelaufen:"
+
+#: inc/template/functions.php:233
+msgid "Extra profile information"
+msgstr "Extra-Profilinformationen"
+
+#: ulisting/account/edit-profile.php:104
+msgid "Fax"
+msgstr "Fax"
+
+#: author.php:54 ulisting/account/dashboard.php:50
+msgid "Fax:"
+msgstr "Fax:"
+
+#: ulisting/account/my-listing.php:140 ulisting/add-listing/form.php:236
+msgid "Feature available."
+msgstr "Feature verfügbar."
+
+#: ulisting/listing/label_featured.php:14
+msgid "Featured"
+msgstr ""
+
+#: ulisting/pricing-plan/payment.php:47 ulisting/pricing-plan/list.php:57
+msgid "Features"
+msgstr "Features"
+
+#: ulisting/listing-list/filter.php:49
+msgid "Filter"
+msgstr "Filter"
+
+#: ulisting/account/register.php:35 ulisting/account/edit-profile.php:49
+msgid "First name"
+msgstr "Vorname"
+
+#: inc/template/setup.php:16
+msgid "Footer menu"
+msgstr "Fußzeilenmenü"
+
+#: ulisting/account/login.php:28 ulisting/account/login_register.php:27
+msgid "Forgot?"
+msgstr "Vergessen?"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/callback/section/oauth.php:12
+msgid "generate a personal token"
+msgstr "ein Personal-Token generieren"
+
+#: ulisting/listing-list/filter.php:49
+msgid "Get result"
+msgstr "Resultat einholen"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:496
+msgid "Global OAuth Personal Token"
+msgstr "Globales OAuth Personal-Token"
+
+#: ulisting/account/edit-profile.php:173 ulisting/account/edit-profile.php:177
+msgid "Google plus"
+msgstr "Google plus"
+
+#: inc/template/setup.php:15
+msgid "Header menu"
+msgstr "Kopfzeilenmenü"
+
+#: 404.php:37
+msgid "Home page"
+msgstr "Hauptseite"
+
+#: inc/admin/product_registration/screens/system_status.php:21
+msgid "Home URL:"
+msgstr "Heim-URL:"
+
+#. Name of the theme
+#: inc/admin/product_registration/includes/admin_screens.php:20
+msgid "HomePress"
+msgstr "HomePress"
+
+#. Description of the theme
+msgid ""
+"HomePress is a premium Real Estate WordPress Theme from StylemixThemes "
+"featured by powerful uListing plugin. Use HomePress to create amazing and "
+"intuitive Real Estate websites that your customers will love to surf."
+msgstr ""
+"HomePress ist ein Premium-Immobilien-WordPress-Theme von StylemixThemes, "
+"gefeaturet vom potenten uListing-Plug-In. Kreieren Sie mit HomePress "
+"hochattraktive wie intuitive Immobilien-Websites, die Ihre Kunden mit "
+"Vergnügen ansurfen!"
+
+#. URI of the theme
+msgid "https://homepress.stylemixthemes.com/"
+msgstr "https://homepress.stylemixthemes.com/"
+
+#. Author URI of the theme
+msgid "https://stylemixthemes.com/"
+msgstr "https://stylemixthemes.com/"
+
+#: ulisting/account/my-plans/list.php:50
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:394
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/callback/setting/items.php:22
+msgid "ID"
+msgstr "ID"
+
+#. Name of the template
+msgid "IDX-Broker"
+msgstr "IDX-Broker"
+
+#. Name of the template
+msgid "IDX-iHomefinder"
+msgstr "IDX-iHomefinder"
+
+#. Name of the template
+msgid "IDX-Realtyna"
+msgstr "IDX-Realtyna"
+
+#. Name of the template
+msgid "IDX-Wrapper"
+msgstr "IDX-Wrapper"
+
+#: inc/template/setup.php:68
+msgid "IDXBroker sidebar"
+msgstr "IDXBroker-Seitenleiste"
+
+#: inc/template/setup.php:78
+msgid "iHomefinder sidebar"
+msgstr "iHomefinder-Seitenleiste"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:151
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:380
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:472
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:473
+msgid "Install"
+msgstr "Installieren"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:152
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:381
+#, php-format
+msgid "Install %s"
+msgstr "%s installieren"
+
+#: inc/admin/product_registration/includes/admin_screens.php:131
+msgid "Install Demos"
+msgstr "Demost installieren"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:797
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:822
+msgid "Installing Plugin..."
+msgstr "Plug-In wird installiert…"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:829
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Plug-In, das installiert wird: %s"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:856
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:881
+msgid "Installing Theme..."
+msgstr "Theme wird installiert…"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:890
+#, php-format
+msgid "Installing Theme: %s"
+msgstr "Theme, das installiert wird: %s"
+
+#: inc/admin/product_registration/screens/startup.php:69
+msgid "Instructions For Generating A Token"
+msgstr "Anleitung zum Generieren eines Tokens"
+
+#: ulisting/calc/mortgage_calc.php:35
+msgid "Interest Rate"
+msgstr "Zinssatz"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:430
+msgid "Item ID"
+msgstr "Artikel-ID"
+
+#: inc/admin/product_registration/screens/system_status.php:69
+msgid "Language:"
+msgstr "Sprache:"
+
+#: ulisting/account/register.php:40 ulisting/account/edit-profile.php:58
+msgid "Last name"
+msgstr "Nachname"
+
+#: ulisting/account/edit-profile.php:118
+msgid "Latitude"
+msgstr "Breitengrad"
+
+#: inc/admin/product_registration/screens/support.php:55
+msgid "Learn more"
+msgstr "Mehr erfahren"
+
+#: ulisting/account/edit-profile.php:132
+msgid "License"
+msgstr "Lizenz"
+
+#: author.php:74 ulisting/account/dashboard.php:70
+msgid "License:"
+msgstr "Lizenz:"
+
+#: ulisting/account/edit-profile.php:187 ulisting/account/edit-profile.php:191
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: author.php:120
+msgid "Listing"
+msgstr "Listing"
+
+#: ulisting/add-listing/listing-type.php:22 ulisting/add-listing/form.php:109
+#: ulisting/add-listing/form.php:226
+msgid "Listing Type"
+msgstr "Listing-Typ"
+
+#: ulisting/account/saved-searches.php:21
+#: ulisting/filter/search_form_category_styles/style_1.php:198
+#: ulisting/filter/search_form_category_styles/style_2.php:187
+#: ulisting/filter/search_form_category_styles/style_3.php:194
+msgid "Listing type"
+msgstr "Listing-Typ"
+
+#: ulisting/pricing-plan/payment.php:46 ulisting/pricing-plan/list.php:28
+#: ulisting/pricing-plan/list.php:56
+#: ulisting/region/region-list-short-code.php:70
+msgid "Listings"
+msgstr "Listings"
+
+#: ulisting/add-listing/form.php:159
+msgid "Listings available."
+msgstr "Listings verfügbar."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:138
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:55
+msgid "Live Preview"
+msgstr "Live-Vorschau"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:138
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:55
+#, php-format
+msgid "Live Preview &#8220;%s&#8221;"
+msgstr "Live-Vorschau: &#8220;%s&#8221;"
+
+#: ulisting/comment/comment.php:39 ulisting/comment/comment.php:85
+msgid "Load"
+msgstr "Laden"
+
+#: ulisting/comment/comment.php:86
+msgid "Load more"
+msgstr "Mehr laden"
+
+#: ulisting/account/edit-profile.php:235
+msgid "Load..."
+msgstr "Laden…"
+
+#: ulisting/listing-compare/compare-page.php:33
+#: ulisting/listing-list/filter.php:41
+msgid "Loading"
+msgstr ""
+
+#: ulisting/account/edit-profile.php:203 ulisting/add-listing/form.php:216
+#: ulisting/add-listing/form.php:260
+msgid "Loading..."
+msgstr "Wird geladen…"
+
+#: ulisting/account/login.php:19 ulisting/account/login.php:21
+#: ulisting/account/register.php:30 ulisting/account/login_register.php:18
+#: ulisting/account/login_register.php:20 ulisting/account/account-panel.php:58
+msgid "Login"
+msgstr "Einloggen"
+
+#: ulisting/comment/comment.php:50
+msgid "Login "
+msgstr "Log-In "
+
+#: ulisting/account/account-panel.php:46
+msgid "Logout"
+msgstr "Ausloggen"
+
+#: ulisting/account/edit-profile.php:125
+msgid "Longitude"
+msgstr "Längengrad"
+
+#: inc/template/enqueue.php:112
+msgctxt "Main font: on or off"
+msgid "on"
+msgstr "an"
+
+#: ulisting/account/my-card.php:63
+msgid "Make default"
+msgstr "Zum Standard machen"
+
+#: inc/admin/product_registration/screens/system_status.php:242
+msgid "Max Upload Size:"
+msgstr "Upload-Höchstgröße"
+
+#: ulisting/yelp/yelp_nearby.php:50
+msgid "mi"
+msgstr "Meilen"
+
+#: ulisting/account/edit-profile.php:90
+msgid "Mobile Phone"
+msgstr "Mobiltelefon"
+
+#: author.php:42 ulisting/account/dashboard.php:38
+msgid "Mobile:"
+msgstr "Mobilrufnr.:"
+
+#: ulisting/calc/mortgage_calc.php:79
+msgid "Mortgage Payment"
+msgstr "Hypothekenzahlung"
+
+#: inc/template/ulisting-hooks.php:1540
+msgid "My card"
+msgstr "Meine Karte"
+
+#: inc/template/ulisting-hooks.php:1519
+msgid "My Invoices"
+msgstr "Meine Rechnungen"
+
+#: ulisting/account/account-panel.php:33 ulisting/account/navigation.php:18
+msgid "My profile"
+msgstr "Mein Profil"
+
+#: inc/template/ulisting-hooks.php:1530
+msgid "My searches"
+msgstr "Meine Suchanfragen"
+
+#: inc/admin/product_registration/screens/system_status.php:231
+msgid "MySQL Version:"
+msgstr "MySQL-Version:"
+
+#: ulisting/account/my-plans/list.php:51
+msgid "Name"
+msgstr "Name"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:364
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:118
+msgid "Network Activate"
+msgstr "Netzwerk-Aktivierung"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:365
+#, php-format
+msgid "Network Activate %s"
+msgstr "Netzwerk-Aktivierung: %s"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:118
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:64
+msgid "Network Enable"
+msgstr "Netzwerkbefähigung"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:118
+#, php-format
+msgid "Network Enable &#8220;%s&#8221;"
+msgstr "Netzwerkbefähigung: &#8220;%s&#8221;"
+
+#: ulisting/account/edit-profile.php:220 ulisting/account/edit-profile.php:221
+msgid "New password"
+msgstr "Neues Passwort"
+
+#: comments.php:33
+msgid "Newer Comments"
+msgstr "Neuere Kommentare"
+
+#: inc/template/functions.php:195
+#: inc/admin/product_registration/screens/install_demo.php:92
+#: inc/admin/product_registration/screens/install_demo.php:233
+#: partials/single/post/parts/prev_next_buttons.php:91
+#: partials/single/post/parts/nextpage.php:9
+msgid "Next"
+msgstr "Weiter"
+
+#: ulisting/add-listing/field/yes_no.php:20
+msgid "No"
+msgstr "Nein"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/callback/section/oauth.php:10
+msgid ""
+"OAuth is a protocol that lets external apps request authorization to private "
+"details in a user's Envato Market account without entering their password. "
+"This is preferred over Basic Authentication because tokens can be limited to "
+"specific types of data, and can be revoked by users at any time."
+msgstr ""
+"OAuth ist ein Protokoll, das externen Apps auch ohne Eingabe des jew. "
+"Nutzerpassworts das Anfragen von Autorisierung für private Details innerhalb "
+"des jeweiligen Envato Market-Nutzerkontos ermöglicht. Dies wird gegenüber "
+"der Basisautentisierung vorgezogen, da Tokens auf spezifische Datentypen "
+"begrenzt sein und von den Nutzern jederzeit zurückgezogen werden können."
+
+#: ulisting/account/my-listing.php:140 ulisting/add-listing/form.php:159
+#: ulisting/add-listing/form.php:236
+msgid "of"
+msgstr "von"
+
+#: ulisting/account/edit-profile.php:97
+msgid "Office Phone"
+msgstr "Büro-Telefon-Nr."
+
+#: author.php:48 ulisting/account/dashboard.php:44
+msgid "Office:"
+msgstr "Büro/Niederlassung:"
+
+#: ulisting/account/edit-profile.php:212 ulisting/account/edit-profile.php:213
+msgid "Old password"
+msgstr "Altes Passwort"
+
+#: comments.php:30
+msgid "Older Comments"
+msgstr "Ältere Kommentare"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/notice/error-single-use.php:11
+msgid ""
+"One or more Single Use OAuth Personal Tokens could not be verified and "
+"should be removed."
+msgstr ""
+"Die Verifizierung von einem oder mehreren OAuth-Personal-Einweg-Tokens ist "
+"fehlgeschlagen. Die betreff. Tokens sollten entfernt werden."
+
+#: ulisting/pricing-plan/list.php:16
+msgid "One time payment"
+msgstr "Einmalige Zahlung"
+
+#: inc/admin/product_registration/screens/support.php:89
+#, php-format
+msgid ""
+"Our forum is the best place for user to user interactions. Ask another %s "
+"user or share your experience with the community to help others."
+msgstr ""
+"Unser Forum ist der ideale Ort für User-to-User-Interaktion. Bitten Sie "
+"andere %s-Nutzer um Rat, oder teilen Sie Ihre eigenen Erfahrungen mit der "
+"Community, um anderen Nutzern Rat zu geben."
+
+#: inc/admin/product_registration/screens/support.php:52
+#, php-format
+msgid ""
+"Our online documentaiton is a useful resource for learning the every aspect "
+"and features of %s."
+msgstr ""
+"Unsere Online-Dokumentierung ist eine wertvolle Ressource, um alle Aspekte "
+"und Features von %s zu studieren."
+
+#: author.php:114
+msgid "Overview"
+msgstr "Übersicht"
+
+#: ulisting/statistics/listing-page-statistics.php:22
+msgid "Page statistics"
+msgstr "Seitenstatistik"
+
+#: partials/page/main.php:92
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: ulisting/account/saved-searches.php:22
+msgid "Params"
+msgstr "Parameter"
+
+#: ulisting/account/login.php:27 ulisting/account/register.php:55
+#: ulisting/account/login_register.php:26
+msgid "Password"
+msgstr "Passwort"
+
+#: ulisting/calc/mortgage_calc.php:74
+msgid "Payment"
+msgstr "Zahlung"
+
+#: ulisting/pricing-plan/payment.php:60 ulisting/pricing-plan/payment.php:89
+msgid "Payment Method"
+msgstr "Zahlungsmethode"
+
+#: ulisting/account/payment-history.php:39
+#: ulisting/account/payment-history.php:52
+msgid "Payment method"
+msgstr "Zahlungsmethode"
+
+#: ulisting/calc/mortgage_calc.php:43
+msgid "Payment Period"
+msgstr "Zahlungsperiode"
+
+#: ulisting/account/my-plans/list.php:41
+msgid "Payment Type"
+msgstr "Zahlungsart"
+
+#: ulisting/account/my-plans/list.php:54
+#: ulisting/account/my-plans/detail.php:46
+msgid "Payment type"
+msgstr "Zahlungsart"
+
+#: ulisting/calc/mortgage_calc.php:53
+msgid "Payments:"
+msgstr "Zahlungen:"
+
+#: inc/admin/product_registration/screens/system_status.php:116
+msgid "PHP Max Input Vars:"
+msgstr "PHP-Max-Eingabevariablen:"
+
+#: inc/admin/product_registration/screens/system_status.php:93
+msgid "PHP Post Max Size:"
+msgstr "PHP-Post-Maximalgröße:"
+
+#: inc/admin/product_registration/screens/system_status.php:98
+msgid "PHP Time Limit:"
+msgstr "PHP-Zeitlimit:"
+
+#: inc/admin/product_registration/screens/system_status.php:85
+msgid "PHP Version:"
+msgstr "PHP-Version:"
+
+#: ulisting/account/my-plans/list.php:38
+msgid "Plan"
+msgstr "Preismodell"
+
+#: ulisting/add-listing/form.php:231
+msgid "Plan for Feature"
+msgstr "Preismodell für Feature"
+
+#: ulisting/account/my-plans/detail.php:30
+msgid "Plan:"
+msgstr "Preismodell:"
+
+#: inc/admin/product_registration/screens/install_demo.php:31
+#, php-format
+msgid ""
+"Please enter your <a href=\"%s\">Activation Token</a> before running the "
+"Homepress."
+msgstr ""
+"Bitte geben Sie Ihr <a href=\"%s\">Aktivierungs-Token\"</a> ein, bevor Sie "
+"Homepress laufen lassen."
+
+#: inc/admin/product_registration/screens/startup.php:23
+msgid ""
+"Please make sure you have purchased this theme with the account you "
+"registered current token"
+msgstr ""
+"Bitte sicherstellen, dass Sie dieses Theme mit demselben Nutzerkonto "
+"erworben haben, mit dem das aktuelle Token registriert wurde."
+
+#: inc/classes/HomepressDemoImport.php:146
+msgid "Plugin not found :("
+msgstr "Plug-In nicht gefunden. :("
+
+#: inc/admin/product_registration/includes/admin_screens.php:134
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/partials/tabs.php:42
+msgid "Plugins"
+msgstr "Plug-Ins"
+
+#: partials/post/parts/info.php:11
+msgid "Posted by: "
+msgstr "Gepostet von:"
+
+#: ulisting/yelp/yelp_nearby.php:30
+msgid "Powered by"
+msgstr "Powered by"
+
+#: inc/template/functions.php:194
+msgid "Prev"
+msgstr "Vor."
+
+#: inc/admin/product_registration/screens/install_demo.php:88
+#: inc/admin/product_registration/screens/install_demo.php:228
+#: partials/single/post/parts/prev_next_buttons.php:37
+#: partials/single/post/parts/nextpage.php:10
+msgid "Previous"
+msgstr "Voriges"
+
+#: ulisting/region/region-list-short-code.php:75
+msgid "Price"
+msgstr "Preis"
+
+#: inc/template/setup.php:48
+msgid "Primary sidebar"
+msgstr "Primäre Seitenleiste"
+
+#: ulisting/calc/mortgage_calc.php:107
+msgid "Principal:"
+msgstr "Direktor:"
+
+#: ulisting/listing-single/item-meta/parts/useful_links.php:4
+msgid "Print"
+msgstr "Druck"
+
+#: inc/admin/product_registration/includes/admin_screens.php:128
+msgid "Product Registration"
+msgstr "Produktregistrierung"
+
+#: inc/admin/product_registration/screens/install_demo.php:211
+msgid "Progress"
+msgstr "Fortschritt"
+
+#: ulisting/account/my-listing.php:122
+msgid "Promote"
+msgstr "Promoten"
+
+#: ulisting/account/register.php:60 ulisting/account/register.php:61
+msgid "Re-enter password"
+msgstr "Passwort erneut eingeben"
+
+#: inc/template/setup.php:88
+msgid "Realtyna sidebar"
+msgstr "Realtyna-Seitenleiste"
+
+#: ulisting/add-listing/form.php:53
+msgid "Region"
+msgstr "Region"
+
+#: ulisting/account/register.php:68
+msgid "Register"
+msgstr "Registrieren"
+
+#: ulisting/account/login.php:45 ulisting/account/register.php:28
+msgid "Registration"
+msgstr "Registrierung"
+
+#: partials/single/post/parts/related_posts.php:27
+msgid "Related Posts"
+msgstr "Verwandte Beiträge"
+
+#: ulisting/calc/mortgage_calc.php:108
+msgid "Remaining:"
+msgstr "Verbleibend:"
+
+#: ulisting/account/login.php:37 ulisting/account/login_register.php:36
+msgid "Remember me"
+msgstr "Mich bitte merken"
+
+#: ulisting/listing-compare/compare-page.php:72
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:364
+msgid "Remove"
+msgstr "Entfernen"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:418
+msgid "Remove Item"
+msgstr "Artikel entfernen"
+
+#: inc/template/comments.php:33
+msgid "Reply"
+msgstr "Antworten"
+
+#: ulisting/listing-list/filter.php:46
+msgid "Reset filter"
+msgstr "Filter rücksetzen"
+
+#: ulisting/listing-list/reset-filter.php:18
+msgid "Reset Search"
+msgstr ""
+
+#: partials/content-search.php:55 partials/content-search.php:202
+msgid "results found"
+msgstr "Ergebnisse gefunden"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:122
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:799
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:824
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:883
+msgid "Return to Plugin Installer"
+msgstr "Zurück zum Plug-In-Installierer"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:70
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:858
+msgid "Return to Theme Installer"
+msgstr "Zurück zum Theme-Installierer"
+
+#: author.php:179
+msgid "Review"
+msgstr "Bewertung"
+
+#: ulisting/comment/comment.php:55 ulisting/profile/profile_form/style_1.php:77
+#: ulisting/profile/profile_avatar/styles/profile_avatar_style_1.php:38
+msgid "Reviews"
+msgstr "Bewertungen"
+
+#: ulisting/yelp/yelp_nearby.php:53
+msgid "reviews"
+msgstr "Bewertungen"
+
+#: ulisting/account/my-listing.php:156
+#: ulisting/listing-single/item-meta/parts/useful_links.php:9
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:363
+msgid "Save"
+msgstr "Speichern"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/partials/settings.php:18
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: ulisting/listing-list/save-search.php:16
+msgid "Save load..."
+msgstr "Gespeichertes wird geladen…"
+
+#: ulisting/listing-list/save-search.php:12
+#: ulisting/saved-searches/add-button.php:12
+msgid "Save Search"
+msgstr "Suche speichern"
+
+#: ulisting/wishlist/link.php:26
+msgid "Saved Searches"
+msgstr "Gespeicherte Suchen"
+
+#: ulisting/wishlist/main.php:19 ulisting/wishlist/main.php:35
+msgid "Saved searches"
+msgstr "Gespeicherte Suchen"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/partials/intro.php:20
+msgid "Screenshot"
+msgstr "Bildschirmaufnahme"
+
+#: inc/template/functions.php:128
+#: ulisting/filter/search_form_category_styles/style_1.php:212
+#: ulisting/filter/search_form_category_styles/style_1.php:248
+#: ulisting/filter/search_form_category_styles/style_2.php:201
+#: ulisting/filter/search_form_category_styles/style_2.php:240
+#: ulisting/filter/search_form_category_styles/style_3.php:208
+#: ulisting/filter/search_form_category_styles/style_3.php:250
+msgid "Search"
+msgstr "Suche"
+
+#: ulisting/filter/search_form_category_styles/style_1.php:205
+#: ulisting/filter/search_form_category_styles/style_2.php:194
+#: ulisting/filter/search_form_category_styles/style_3.php:201
+msgid "Search field"
+msgstr "Suchfeld"
+
+#: partials/content-search.php:34 partials/content-search.php:181
+msgid "Search for"
+msgstr "Suchen nach:"
+
+#: inc/template/setup.php:58
+msgid "Secondary sidebar"
+msgstr "Sekundäre Seitenleiste"
+
+#: ulisting/add-listing/form.php:114
+msgid "Select Package for Listing"
+msgstr "Paket aus Listing auswählen"
+
+#: ulisting/account/register.php:51
+msgid "Select user role"
+msgstr "Nutzerrolle auswählen"
+
+#: inc/admin/product_registration/screens/system_status.php:76
+#: inc/admin/product_registration/screens/system_status.php:80
+msgid "Server Environment"
+msgstr "Server-Umgebung"
+
+#: ulisting/add-listing/form.php:259
+msgid "Set feature"
+msgstr "Feature setzen"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/partials/tabs.php:45
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ulisting/listing-single/item-meta/parts/useful_links.php:14
+msgid "Share"
+msgstr "Sharen"
+
+#: ulisting/account/login.php:43 ulisting/account/login_register.php:42
+msgid "Sign In"
+msgstr "Anmelden"
+
+#: ulisting/account/account-panel.php:58
+msgid "Sign Up"
+msgstr "Anmelden"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:513
+msgid "Single Use OAuth Personal Tokens"
+msgstr "Single-Use OAuth Personal-Tokens"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:356
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:114
+msgid "Site Activate"
+msgstr "Website-Aktivierung"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:357
+#, php-format
+msgid "Site Activate %s"
+msgstr "Website-Aktivierung von %s"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:114
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:60
+msgid "Site Enable"
+msgstr "Website-Befähigung"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:114
+#, php-format
+msgid "Site Enable &#8220;%s&#8221;"
+msgstr "Website-Befähigung von: &#8220;%s&#8221;"
+
+#: inc/admin/product_registration/screens/system_status.php:26
+msgid "Site URL:"
+msgstr "Website-URL:"
+
+#: ulisting/account/edit-profile.php:159
+msgid "Socials"
+msgstr "Socials"
+
+#: inc/admin/product_registration/screens/install_demo.php:91
+#: inc/admin/product_registration/screens/install_demo.php:232
+msgid "Start Installation"
+msgstr ""
+
+#: ulisting/account/payment-history.php:40
+#: ulisting/account/payment-history.php:53
+#: ulisting/account/my-plans/list.php:39 ulisting/account/my-plans/list.php:52
+#: ulisting/account/my-plans/detail.php:35
+msgid "Status"
+msgstr "Status"
+
+#: ulisting/pricing-plan/payment.php:49 ulisting/pricing-plan/list.php:30
+#: ulisting/pricing-plan/list.php:59
+msgid "Status:"
+msgstr "Status:"
+
+#. Author of the theme
+msgid "StylemixThemes"
+msgstr "StylemixThemes"
+
+#: ulisting/comment/comment.php:40
+#: inc/admin/product_registration/screens/startup.php:61
+msgid "Submit"
+msgstr "Einreichen"
+
+#: inc/admin/product_registration/screens/support.php:38
+msgid "Submit a ticket"
+msgstr "Ein Ticket einreichen"
+
+#: ulisting/pricing-plan/list.php:44
+msgid "Subscription"
+msgstr "Abonnement"
+
+#: inc/admin/product_registration/screens/system_status.php:145
+msgid "SUHOSIN Installed:"
+msgstr "SUHOSIN installiert:"
+
+#: inc/admin/product_registration/screens/system_status.php:146
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.\n"
+"\t\t\tIf enabled on your server, Suhosin may need to be configured to "
+"increase its data submission limits."
+msgstr ""
+"Suhosin ist ein fortschrittliches Schutzsystem für PHP-Installationen. Es "
+"ist darauf ausgelegt, Ihre Server einerseits gegen eine Reihe bekannter "
+"Probleme von PHP-Anwendungen zu schützen, andererseits ebenso gegen noch "
+"unbekannte, potenzielle Schwachstellen innerhalb der Anwendungen oder sogar "
+"innerhalb des PHP-Kerns selbst. \n"
+"\t\t\tIst Suhosin auf Ihrem Server aktiviert, so ist evtl. eine "
+"Konfigurierung des Schutzsystems erforderlich, um dessen Data-Submission-"
+"Limits zu erhöhen."
+
+#: inc/admin/product_registration/screens/system_status.php:210
+msgid "Suhosin Post Max Value Length:"
+msgstr "Suhosin Post-Werthöchstlänge:"
+
+#: inc/admin/product_registration/screens/system_status.php:152
+msgid "Suhosin Post Max Vars:"
+msgstr "Suhosin Post-Max-Vars:"
+
+#: inc/admin/product_registration/screens/system_status.php:181
+msgid "Suhosin Request Max Vars:"
+msgstr "Suhosin Request-Max-Vars:"
+
+#: inc/admin/product_registration/includes/admin_screens.php:52
+#: inc/admin/product_registration/includes/admin_screens.php:53
+#: inc/admin/product_registration/includes/admin_screens.php:137
+msgid "Support"
+msgstr "Support"
+
+#: inc/admin/product_registration/includes/admin_screens.php:140
+msgid "System Status"
+msgstr "Systemstatus"
+
+#: inc/admin/product_registration/includes/admin_screens.php:42
+#: inc/admin/product_registration/includes/admin_screens.php:43
+msgid "System status"
+msgstr "Systemstatus"
+
+#: partials/single/post/parts/tags.php:7
+msgid "Tags:"
+msgstr "Taggings:"
+
+#: ulisting/account/edit-profile.php:139
+msgid "Tax number"
+msgstr "Steuernummmer:"
+
+#: author.php:79 ulisting/account/dashboard.php:75
+msgid "Tax number:"
+msgstr "Steuernummer:"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:389
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/partials/settings.php:22
+msgid "Test API Connection"
+msgstr "Test-API-Verbindung"
+
+#: inc/admin/product_registration/screens/startup.php:39
+#, php-format
+msgid ""
+"Thank you for choosing %s! Please register it to enable the %1$s demos and "
+"theme auto updates. The instructions below must be followed exactly."
+msgstr ""
+"Vielen Dank, dass Sie sich für %s entschieden haben! Bitte nehmen Sie die "
+"Registrierung vor, um die %1$s-Demos und Theme-Auto-Updates zu aktivieren. "
+"Folgen Sie dazu bitte genau der untenstehenden Anleitung."
+
+#: inc/admin/product_registration/screens/system_status.php:99
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+"Die Zeitdauer (in Sekunden), die Ihre Website auf eine einzelne Operation "
+"verwendet, ehe es zum Time-Out kommt (zur Vermeidung von Server-Lock-Ups)."
+
+#: inc/admin/product_registration/screens/system_status.php:70
+msgid "The current language used by WordPress. Default = English"
+msgstr "Die aktuelle Spracheinstellung von WordPress. Default = Englisch"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:1015
+msgid "The item cannot be downloaded."
+msgstr "Der Artikel lässt sich nicht herunterladen."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:1000
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:1093
+msgid "The Item ID is missing."
+msgstr "Die Artikel-ID fehlt."
+
+#: inc/admin/product_registration/screens/system_status.php:94
+msgid "The largest file size that can be contained in one post."
+msgstr "Die maximale Dateigröße, die in einem Beitrag enthalten sein kann."
+
+#: inc/admin/product_registration/screens/system_status.php:243
+msgid ""
+"The largest file size that can be uploaded to your WordPress installation."
+msgstr ""
+"Die maximale Dateigröße, die sich auf Ihre WordPress-Installation hochladen "
+"lässt."
+
+#: inc/admin/product_registration/screens/system_status.php:42
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+"Die maximale Menge an Arbeitsspeicher (RAM), die Ihre Website auf einmal "
+"verwenden kann."
+
+#: inc/admin/product_registration/screens/system_status.php:117
+#: inc/admin/product_registration/screens/system_status.php:153
+#: inc/admin/product_registration/screens/system_status.php:182
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+"Die maximale Anzahl an Variablen, die Ihr Server für eine einzelne Funktion "
+"verwenden kann (zur Vermeidung von Overloads)."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/notice/error.php:11
+msgid ""
+"The OAuth Personal Token could not be verified. Please check that the Token "
+"has been entered correctly and has the minimum required permissions."
+msgstr ""
+"Das OAuth Personal-Token ließ sich nicht verifizieren. Bitte prüfen Sie, ob "
+"das Token korrekt eingegeben wurde und über die benötigten Mindestbefugnisse "
+"verfügt."
+
+#: 404.php:33
+msgid "The page you’re looking for doesn’t exist"
+msgstr "Die von Ihnen gesuchte Seite ist nicht vorhanden."
+
+#: inc/admin/product_registration/screens/system_status.php:27
+msgid "The root URL of your site."
+msgstr "Die Root-URL Ihrer Website."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:998
+msgid "The Token is missing."
+msgstr "Das Token fehlt."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:1011
+msgid "The Token or Item ID is incorrect."
+msgstr "Das Token oder die Artikel-ID stimmen nicht."
+
+#: inc/admin/product_registration/screens/system_status.php:22
+msgid "The URL of your site's homepage."
+msgstr "Die Internet-Adr. der Hauptseite Ihrer Website."
+
+#: inc/admin/product_registration/screens/system_status.php:232
+msgid "The version of MySQL installed on your hosting server."
+msgstr "Die auf Ihrem Hosting-Server installierte MySQL-Version."
+
+#: inc/admin/product_registration/screens/system_status.php:86
+msgid "The version of PHP installed on your hosting server."
+msgstr "Die auf Ihrem Hosting-Server installierte PHP-Version."
+
+#: inc/admin/product_registration/screens/system_status.php:32
+msgid "The version of WordPress installed on your site."
+msgstr "Die auf Ihrer Website installierte WordPress-Version."
+
+#: inc/admin/product_registration/screens/install_demo.php:75
+msgid "Theme Options"
+msgstr ""
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/partials/tabs.php:28
+msgid "Themes"
+msgstr "Themes"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/partials/intro.php:15
+msgid ""
+"This plugin can install WordPress themes and plugins purchased from "
+"ThemeForest & CodeCanyon by connecting with the Envato Market API using a "
+"secure OAuth personal token. Once your themes & plugins are installed "
+"WordPress will periodically check for updates, so keeping your items up to "
+"date is as simple as a few clicks."
+msgstr ""
+"Dieses Plug-In kann via ThemeForest & CodeCanyon erworbene WordPress-Themes "
+"und -Plug-Ins installieren, indem es sich mittels abgesichertem OAuth "
+"Personal-Tokenmit dem Envato Market-API verbindet. Sind Ihre Themes u. Plug-"
+"Ins erst installiert,schaut WordPress periodisch nach Updates, sodass Sie "
+"Ihre Artikel mit nur wenigen Klicksauf dem neuesten Stand halten können."
+
+#: inc/admin/product_registration/screens/support.php:30
+#: inc/admin/product_registration/screens/support.php:32
+msgid "Ticket System"
+msgstr "Ticketsystem"
+
+#: ulisting/add-listing/form.php:180
+msgid "Title"
+msgstr "Titel"
+
+#: ulisting/comment/comment.php:49
+msgid "To leave a review, just log in or sign up!"
+msgstr "Einfach einloggen oder anmelden, um eine Bewertung zu hinterlassen!"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:427
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:504
+msgid "Token"
+msgstr "Token"
+
+#: ulisting/calc/mortgage_calc.php:27
+msgid "Total Amount"
+msgstr "Gesamtsumme"
+
+#: ulisting/calc/mortgage_calc.php:64
+msgid "Total cost of loan"
+msgstr "Gesamtkosten des Darlehens"
+
+#: ulisting/calc/mortgage_calc.php:69
+msgid "Total Interest Paid"
+msgstr "Gezahlte Zinsen insgesamt"
+
+#: ulisting/account/payment-history.php:41
+#: ulisting/account/payment-history.php:54
+msgid "Transaction"
+msgstr "Transaktion"
+
+#: ulisting/saved-searches/saved-searches.php:26
+#: ulisting/account/my-plans/list.php:40 ulisting/account/my-plans/list.php:53
+#: ulisting/account/my-plans/detail.php:41
+msgid "Type"
+msgstr "Typ"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:975
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr ""
+"Verbindung zum Dateisystem fehlgeschlagen. Bitte bestätigen Sie Ihre "
+"Zugangsdaten."
+
+#: ulisting/account/edit-profile.php:202
+msgid "Update"
+msgstr "Update"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:70
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:171
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:286
+#, php-format
+msgid "Update %s now"
+msgstr "%s jetzt updaten"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:74
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:175
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:291
+msgid "Update Available"
+msgstr "Update verfügbar"
+
+#: ulisting/account/edit-profile.php:236
+msgid "Update password"
+msgstr "Passwort aktualisieren"
+
+#: ulisting/account/payment-history.php:44
+#: ulisting/account/payment-history.php:57
+msgid "Updated"
+msgstr "Aktualisiert"
+
+#: ulisting/account/register.php:50
+msgid "User role"
+msgstr "Nutzerrolle"
+
+#: ulisting/account/edit-profile.php:76
+msgid "Username"
+msgstr "Nutzername"
+
+#: inc/template/functions.php:237
+msgid "Verified user"
+msgstr "Verifizierter Nutzer"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:456
+msgid "Version"
+msgstr "Version"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:190
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:400
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:400
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:456
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:929
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:965
+#, php-format
+msgid "Version %s"
+msgstr "Version %s"
+
+#: inc/admin/product_registration/screens/support.php:67
+#: inc/admin/product_registration/screens/support.php:69
+msgid "Video Tutorials"
+msgstr "Video-Tutorials"
+
+#: ulisting/account/my-plans/list.php:57
+msgid "View"
+msgstr "Ansicht"
+
+#: partials/single/post/parts/info.php:32
+msgid "view"
+msgstr "anschauen"
+
+#: ulisting/add-listing/form.php:257
+msgid "View Property"
+msgstr "Eigenschaft anschauen"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:89
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:299
+#, php-format
+msgid "View version %1$s details."
+msgstr "Details von Version %1$s anschauen."
+
+#: partials/single/post/parts/info.php:34
+msgid "views"
+msgstr "Aufrufe"
+
+#: inc/admin/product_registration/screens/support.php:92
+msgid "Visit Our Forum"
+msgstr "Besuchen Sie unser Forum."
+
+#: inc/admin/product_registration/screens/system_status.php:279
+msgid "Visit plugin homepage"
+msgstr "Besuchen Sie die Plug-In-Hauptseite."
+
+#: inc/admin/product_registration/screens/install_demo.php:76
+msgid "Visit site"
+msgstr ""
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/callback/section/items.php:12
+msgid "Warning: These tokens can be revoked by the account holder at any time."
+msgstr ""
+"Achtung: Diese Tokens lassen sich vom Account-Halter jederzeit zurückziehen!"
+
+#: inc/admin/product_registration/screens/support.php:75
+msgid "Watch Videos"
+msgstr "Videos anschauen"
+
+#: inc/admin/product_registration/screens/support.php:35
+msgid ""
+"We offer excellent support through our advanced ticket system. Make sure to "
+"register your purchase first to access our support services and other "
+"resources."
+msgstr ""
+"Über unser fortschrittliches Ticketsystem bieten wir Ihnen Premium-Support. "
+"Bitte \" \"registrieren Sie zunächst Ihren Kauf, um Zugang zu unseren "
+"Support-Services und zu weiteren Ressourcen zu erhalten."
+
+#: inc/admin/product_registration/screens/support.php:72
+#, php-format
+msgid ""
+"We recommend you to watch video tutorials before you start the theme "
+"customization. Our video tutorials can teach you the different aspects of "
+"using %s."
+msgstr ""
+"Wir empfehlen Ihnen, sich zunächst die Video-Tutorials anzuschauen, ehe Sie "
+"mit der Theme-Anpassung beginnen. Mit unseren Video-Tutorials lernen Sie im "
+"Nu unterschiedliche Aspekte der Nutzung von %s kennen."
+
+#: ulisting/account/edit-profile.php:83
+msgid "Website"
+msgstr "Website"
+
+#: author.php:69 ulisting/account/dashboard.php:65
+msgid "Website:"
+msgstr "Website:"
+
+#: inc/admin/product_registration/includes/admin_screens.php:119
+#, php-format
+msgid "Welcome to %s"
+msgstr "Willkommen bei %s"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/partials/intro.php:14
+msgid "Welcome!"
+msgstr "Willkommen!"
+
+#: ulisting/yelp/yelp_nearby.php:28
+msgid "What's Nearby?"
+msgstr "Was ist in der Nähe?"
+
+#: inc/admin/product_registration/screens/system_status.php:37
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr "Ob bei Ihnen WordPress Multisite aktiviert ist oder nicht."
+
+#: ulisting/wishlist/main.php:14 ulisting/wishlist/main.php:29
+#: ulisting/wishlist/link.php:20
+msgid "Wishlist"
+msgstr "Wunschliste"
+
+#: inc/admin/product_registration/screens/system_status.php:11
+#: inc/admin/product_registration/screens/system_status.php:16
+msgid "WordPress Environment"
+msgstr "WordPress-Umgebung"
+
+#: inc/admin/product_registration/screens/system_status.php:58
+msgid "WP Debug Mode:"
+msgstr "WP Debug-Modus:"
+
+#: inc/admin/product_registration/screens/system_status.php:41
+msgid "WP Memory Limit:"
+msgstr "WP Speicher-Limit:"
+
+#: inc/admin/product_registration/screens/system_status.php:36
+msgid "WP Multisite:"
+msgstr "WP Multisite:"
+
+#: inc/admin/product_registration/screens/system_status.php:31
+msgid "WP Version:"
+msgstr "WP-Version:"
+
+#: ulisting/calc/mortgage_calc.php:106
+msgid "Year:"
+msgstr "Jahr:"
+
+#: ulisting/add-listing/field/yes_no.php:15
+msgid "Yes"
+msgstr "Ja"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:419
+msgid ""
+"You are about to remove the connection between the Envato Market API and "
+"this item. You cannot undo this action."
+msgstr ""
+"Sie sind kurz davor, die Verbindung zwischen dem Envato Market-API und "
+"diesem Artikel zu entfernen. Diese Aktion lässt sich nicht rückgängig machen."
+
+#: partials/single/post/parts/prev_next_buttons.php:57
+#: partials/single/post/parts/prev_next_buttons.php:112
+msgid "You are here"
+msgstr "Sie befinden sich hier."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/partials/intro.php:16
+msgid ""
+"You can add a global token to connect all your items from your account, "
+"and/or connect directly with a specific item using a singe-use token & item "
+"ID. When the global token and single-use token are set for the same item, "
+"the single-use token will be used to communicate with the API."
+msgstr ""
+"Sie können ein globales Token hinzufügen, um alle Ihre Artikel von Ihrem "
+"Nutzerkonto aus zu verbinden, und/oder mittels eines Single-Use-Tokens samt "
+"Artikel-ID eine Direktverbindung zu einem spezifischen Artikel herstellen. "
+"Wenn das globale Token und das Single-Use-Token für denselben Artikel "
+"gesetzt sind, wird zur Kommunikation mit dem API das Single-Use-Token "
+"benutzt."
+
+#: ulisting/add-listing/form.php:168
+msgid "You do not have an active subscription. Add a subscription here"
+msgstr ""
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:213
+msgid "You do not have sufficient permissions to delete transients."
+msgstr "Sie haben nicht genügend Befugnisse, um Transients zu löschen."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:798
+msgid "You do not have sufficient permissions to install plugins on this site."
+msgstr ""
+"Sie haben nicht genügend Befugnisse, um auf dieser Website Plug-Ins zu "
+"installieren."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:857
+msgid "You do not have sufficient permissions to install themes on this site."
+msgstr ""
+"Sie haben nicht genügend Befugnisse, um auf dieser Website Themes zu "
+"installieren."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:933
+msgid "You do not have sufficient permissions to update themes for this site."
+msgstr ""
+"Sie haben nicht genügend Befugnisse, um Themes für diese Website zu "
+"aktualisieren."
+
+#: ulisting/account/payment-history.php:83
+msgid "You don't have any invoices."
+msgstr "Sie haben keine Rechnungen."
+
+#: ulisting/listing-compare/compare-page.php:95
+msgid "You don't have any item in compare."
+msgstr "Sie haben keinen Artikel zum Vergleich."
+
+#: ulisting/wishlist/wishlist.php:65
+msgid "You don't have any item in wishlist."
+msgstr "Sie haben keinen Artikel in der Wunschliste."
+
+#: ulisting/saved-searches/saved-searches.php:46
+msgid "You don't have any save searches."
+msgstr "Sie haben keine gespeicherten Suchen."
+
+#: ulisting/account/my-listing.php:195
+msgid "You have no listings yet."
+msgstr "Sie haben noch keine Listings."
+
+#: ulisting/account/my-plans/list.php:86
+msgid "You have no plans yet."
+msgstr "Sie haben noch keine Preismodelle."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/callback/section/oauth.php:12
+#, php-format
+msgid "You will need to %s, and then insert it below."
+msgstr "Sie müssen %s, und es dann unten einsetzen."
+
+#: inc/admin/product_registration/screens/startup.php:74
+msgid ""
+"You will see a green check mark for success, or a failure message if "
+"something went wrong. If it failed, please make sure you followed the steps "
+"above correctly."
+msgstr ""
+"Bei Erfolg bekommen Sie ein grünes Häkchen angezeigt, bei Nichterfolg eine "
+"Fehlermeldung. Vergewissern Sie sich im Falle von Nichterfolg, ob sie sich "
+"genau an die obigen Schritte gehalten haben."
+
+#: inc/template/comments.php:40
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Kommentar wartet auf Freischaltung."
+
+#: inc/admin/product_registration/screens/system_status.php:51
+msgid ""
+"Your current memory limit is sufficient, but if you need to import classic "
+"demo content, the required memory limit is <strong>256MB.</strong>"
+msgstr ""
+"Ihr aktuelles Arbeitsspeicherlimit ist zwar ausreichend, aber falls Sie "
+"Classic-Demo-Content importieren wollen, liegt das benötigte "
+"Arbeitsspeicherlimit bei <strong>256MB.</strong>"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/notice/success.php:11
+msgid "Your OAuth Personal Token has been verified."
+msgstr "Ihr OAuth Personal-Token wurde verifiziert."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/notice/success-no-items.php:11
+msgid ""
+"Your OAuth Personal Token has been verified. However, there are no WordPress "
+"downloadable items in your account."
+msgstr ""
+"Ihr OAuth Personal-Token wurde verifiziert. Allerdings befinden sich in "
+"Ihrem Nutzerkonto keine herunterladbaren WordPress-Artikel."
+
+#: ulisting/pricing-plan/payment.php:33
+msgid "Your plan"
+msgstr "Ihr Preismodell"
+
+#: ulisting/account/edit-profile.php:180 ulisting/account/edit-profile.php:184
+msgid "Youtube play"
+msgstr "YouTube-Wiedergabe"
+
+#: inc/admin/product_registration/screens/system_status.php:227
+msgid ""
+"ZipArchive is required for importing demos. They are used to import and "
+"export zip files specifically for sliders."
+msgstr ""
+"Zum Importieren von Demos ist ZipArchive erforderlich. Dies dient dem Import "
+"und Export von .zip-Dateien speziell für Slider."
+
+#: inc/admin/product_registration/screens/system_status.php:226
+msgid "ZipArchive:"
+msgstr "ZipArchive:"

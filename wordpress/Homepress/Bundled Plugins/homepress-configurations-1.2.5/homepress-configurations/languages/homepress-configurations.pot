@@ -1,0 +1,1086 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Homepress Configurations\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-17 09:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: theme-options/post_type/posts.php:100 theme-options/post_type/posts.php:105
+#, php-format
+msgctxt " name"
+msgid "%s"
+msgstr ""
+
+#: widgets/class-stm-nav-menu-widget.php:147
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: theme-options/settings/settings.php:144
+#: theme-options/post_type/metaboxes/metabox.php:249
+msgid "Absolute"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:29
+msgid "Account number"
+msgstr ""
+
+#: widgets/class-stm-nav-menu-widget.php:26
+msgid "Add a custom menu to your sidebar."
+msgstr ""
+
+#: widgets/services_cat.php:26
+msgid "Add a Services cat to your sidebar."
+msgstr ""
+
+#: widgets/testimonials.php:26
+msgid "Add a Testimonials to your sidebar."
+msgstr ""
+
+#: theme-options/post_type/taxonomy_meta/fields/image.php:11
+msgid "Add image"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components/multimedia.php:24
+msgid "Add media"
+msgstr ""
+
+#: theme-options/post_type/posts.php:101
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components/faq.php:9
+msgid "Add new FAQ item"
+msgstr ""
+
+#: theme-options/post_type/taxonomies.php:29
+msgid "Add New services category"
+msgstr ""
+
+#: theme-options/post_type/taxonomies.php:24
+msgid "All services category"
+msgstr ""
+
+#: theme-options/settings/settings.php:173
+msgid "API Key"
+msgstr ""
+
+#: theme-options/settings/settings.php:404
+#: theme-options/settings/settings.php:491
+msgid "Archive Style"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:97
+msgid "Australian dollar"
+msgstr ""
+
+#: theme-options/settings/settings.php:362
+#: theme-options/post_type/metaboxes/metabox.php:344
+msgid "Background color"
+msgstr ""
+
+#: theme-options/settings/settings.php:367
+#: theme-options/post_type/metaboxes/metabox.php:353
+msgid "Background image"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:37
+msgid "Bank name"
+msgstr ""
+
+#: theme-options/settings/settings.php:191
+msgid "Best match"
+msgstr ""
+
+#: theme-options/settings/settings.php:386
+msgid "Blog"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/metabox.php:427
+msgid "Blog box"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/metabox.php:119
+msgid "Blog options"
+msgstr ""
+
+#: theme-options/settings/settings.php:123
+msgid "Body"
+msgstr ""
+
+#: theme-options/settings/settings.php:127
+msgid "Body background color"
+msgstr ""
+
+#: theme-options/settings/settings.php:261
+msgid "Body Font"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components/typography.php:52
+msgid "Bold"
+msgstr ""
+
+#: theme-options/settings/settings.php:348
+#: theme-options/post_type/metaboxes/metabox.php:326
+msgid "Border color"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:98
+msgid "Brazilian real"
+msgstr ""
+
+#: theme-options/settings/settings.php:343
+#: theme-options/post_type/metaboxes/metabox.php:317
+msgid "Breadcrumbs background color"
+msgstr ""
+
+#: theme-options/settings/settings.php:333
+#: theme-options/settings/settings.php:371
+#: theme-options/post_type/metaboxes/metabox.php:299
+#: theme-options/post_type/metaboxes/metabox.php:361
+msgid "Breadcrumbs color"
+msgstr ""
+
+#: theme-options/settings/settings.php:338
+#: theme-options/settings/settings.php:376
+#: theme-options/post_type/metaboxes/metabox.php:308
+#: theme-options/post_type/metaboxes/metabox.php:370
+msgid "Breadcrumbs color on action"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components/multimedia.php:26
+msgid "Bulk upload"
+msgstr ""
+
+#: theme-options/settings/settings.php:236
+msgid "Button background color"
+msgstr ""
+
+#: theme-options/settings/settings.php:241
+msgid "Button background color on action"
+msgstr ""
+
+#: theme-options/settings/settings.php:226
+msgid "Button text color"
+msgstr ""
+
+#: theme-options/settings/settings.php:231
+msgid "Button text color on action"
+msgstr ""
+
+#: theme-options/settings/settings.php:201
+msgid "Caching"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:99
+msgid "Canadian dollar"
+msgstr ""
+
+#: theme-options/settings/settings.php:183
+#: theme-options/post_type/taxonomies.php:31
+msgid "Categories"
+msgstr ""
+
+#: theme-options/post_type/taxonomy_meta/metaboxes.php:15
+msgid "Category Image"
+msgstr ""
+
+#: theme-options/post_type/taxonomy_meta/metaboxes.php:11
+msgid "Category Text"
+msgstr ""
+
+#: theme-options/settings/settings.php:36
+msgid "Choose Page"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/metabox.php:131
+msgid "Choose User"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components/typography.php:16
+msgid "Color"
+msgstr ""
+
+#: theme-options/settings/settings.php:207
+msgid "Colors"
+msgstr ""
+
+#. Description of the plugin
+msgid "Configurations plugin."
+msgstr ""
+
+#: theme-options/post_type/metaboxes/metabox.php:107
+#: theme-options/post_type/metaboxes/metabox.php:191
+msgid "Contacts"
+msgstr ""
+
+#: theme-options/settings/settings.php:132
+msgid "Content Max Width"
+msgstr ""
+
+#: theme-options/settings/settings.php:542
+msgid "Copyright"
+msgstr ""
+
+#: theme-options/settings/settings.php:554
+msgid "Copyright background color"
+msgstr ""
+
+#: theme-options/settings/settings.php:559
+msgid "Copyright links color"
+msgstr ""
+
+#: theme-options/settings/settings.php:569
+msgid "Copyright links color on action"
+msgstr ""
+
+#: theme-options/settings/settings.php:564
+msgid "Copyright text color"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:61
+msgid "Currency code"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:100
+msgid "Czech koruna"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:101
+msgid "Danish krone"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/fields/duration.php:26
+msgid "Days"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/metabox.php:152
+#: theme-options/post_type/metaboxes/components/typography.php:46
+msgid "Default"
+msgstr ""
+
+#: theme-options/settings/settings.php:271
+msgid "Default Headings Font Color"
+msgstr ""
+
+#: theme-options/settings/settings.php:266
+msgid "Default Headings Font Family"
+msgstr ""
+
+#: theme-options/settings/settings.php:320
+msgid "Default title box style"
+msgstr ""
+
+#: theme-options/settings/settings.php:194
+msgid "Distance"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components/multimedia.php:16
+msgid "Do you really want to delete this media?"
+msgstr ""
+
+#: theme-options/post_type/posts.php:103
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: widgets/class-stm-nav-menu-widget.php:157
+msgid "Edit Menu"
+msgstr ""
+
+#: theme-options/post_type/taxonomies.php:27
+msgid "Edit services category"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components/faq.php:22
+msgid "Enter FAQ answer"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components/faq.php:21
+msgid "Enter FAQ question"
+msgstr ""
+
+#: widgets/gallery.php:127
+msgid ""
+"Enter image size. Example 100x100, will crop image with 100px width and "
+"100px height"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/fields/duration.php:17
+msgid "Enter quiz duration"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:102
+msgid "Euro"
+msgstr ""
+
+#: theme-options/settings/settings.php:145
+#: theme-options/post_type/metaboxes/metabox.php:250
+msgid "Fixed"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components/typography.php:6
+msgid "Font Family"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components/typography.php:29
+msgid "Font Size"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components/typography.php:44
+msgid "Font Weight"
+msgstr ""
+
+#: theme-options/settings/settings.php:518
+#: theme-options/post_type/metaboxes/metabox.php:403
+#: theme-options/post_type/metaboxes/metabox.php:407
+msgid "Footer"
+msgstr ""
+
+#: theme-options/settings/settings.php:522
+msgid "Footer background color"
+msgstr ""
+
+#: theme-options/settings/settings.php:527
+msgid "Footer links color"
+msgstr ""
+
+#: theme-options/settings/settings.php:537
+msgid "Footer links color on action"
+msgstr ""
+
+#: theme-options/settings/settings.php:532
+msgid "Footer text color"
+msgstr ""
+
+#: theme-options/settings/settings.php:590
+#: theme-options/settings/settings.php:606
+msgid "Full width"
+msgstr ""
+
+#: theme-options/settings/settings.php:119
+msgid "General"
+msgstr ""
+
+#: theme-options/settings/settings.php:65
+#: theme-options/settings/settings.php:82
+#: theme-options/settings/settings.php:96
+#: theme-options/post_type/metaboxes/metabox.php:169
+#: theme-options/post_type/metaboxes/metabox.php:247
+#: theme-options/post_type/metaboxes/metabox.php:269
+#: theme-options/post_type/metaboxes/metabox.php:279
+#: theme-options/post_type/metaboxes/metabox.php:290
+#: theme-options/post_type/metaboxes/metabox.php:393
+#: theme-options/post_type/metaboxes/metabox.php:433
+#: theme-options/post_type/metaboxes/metabox.php:444
+#: theme-options/post_type/metaboxes/metabox.php:455
+#: theme-options/post_type/metaboxes/metabox.php:466
+#: theme-options/post_type/metaboxes/metabox.php:477
+#: theme-options/post_type/metaboxes/metabox.php:488
+#: theme-options/post_type/metaboxes/metabox.php:499
+#: theme-options/post_type/metaboxes/metabox.php:510
+#: theme-options/post_type/metaboxes/metabox.php:521
+#: theme-options/post_type/metaboxes/metabox.php:532
+#: theme-options/post_type/metaboxes/metabox.php:554
+#: theme-options/post_type/metaboxes/metabox.php:565
+msgid "Global"
+msgstr ""
+
+#: theme-options/settings/settings.php:276
+msgid "H1"
+msgstr ""
+
+#: theme-options/settings/settings.php:281
+msgid "H2"
+msgstr ""
+
+#: theme-options/settings/settings.php:286
+msgid "H3"
+msgstr ""
+
+#: theme-options/settings/settings.php:291
+msgid "H4"
+msgstr ""
+
+#: theme-options/settings/settings.php:296
+msgid "H5"
+msgstr ""
+
+#: theme-options/settings/settings.php:301
+msgid "H6"
+msgstr ""
+
+#: theme-options/settings/settings.php:137
+#: theme-options/post_type/metaboxes/metabox.php:241
+#: theme-options/post_type/metaboxes/metabox.php:256
+msgid "Header"
+msgstr ""
+
+#: theme-options/settings/settings.php:141
+#: theme-options/post_type/metaboxes/metabox.php:245
+msgid "Header position"
+msgstr ""
+
+#: theme-options/settings/settings.php:619
+msgid "Header Template"
+msgstr ""
+
+#: widgets/class-stm-nav-menu-widget.php:53
+#: theme-options/post_type/metaboxes/metabox.php:281
+#: theme-options/post_type/metaboxes/metabox.php:292
+#: theme-options/post_type/metaboxes/metabox.php:410
+#: theme-options/post_type/metaboxes/metabox.php:435
+#: theme-options/post_type/metaboxes/metabox.php:446
+#: theme-options/post_type/metaboxes/metabox.php:457
+#: theme-options/post_type/metaboxes/metabox.php:468
+#: theme-options/post_type/metaboxes/metabox.php:479
+#: theme-options/post_type/metaboxes/metabox.php:490
+#: theme-options/post_type/metaboxes/metabox.php:501
+#: theme-options/post_type/metaboxes/metabox.php:512
+#: theme-options/post_type/metaboxes/metabox.php:523
+#: theme-options/post_type/metaboxes/metabox.php:534
+#: theme-options/post_type/metaboxes/metabox.php:556
+#: theme-options/post_type/metaboxes/metabox.php:567
+msgid "Hide"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:33
+msgid "Holder name"
+msgstr ""
+
+#. Name of the plugin
+msgid "Homepress Configurations"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:103
+msgid "Hong Kong dollar"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/fields/duration.php:25
+msgid "Hours"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://stylemixthemes.com/"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:104
+msgid "Hungarian forint 1"
+msgstr ""
+
+#: theme-options/settings/settings.php:579
+msgid "IDX Integrations (IDX Plugin inherit Homepress theme styles)"
+msgstr ""
+
+#: theme-options/settings/settings.php:575
+msgid "IDX Pages"
+msgstr ""
+
+#: theme-options/settings/settings.php:588
+msgid "IDXBroker Page Template"
+msgstr ""
+
+#: theme-options/settings/settings.php:604
+msgid "iHomefinder Page Template"
+msgstr ""
+
+#: widgets/gallery.php:121
+msgid "Image size:"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:105
+msgid "Indian rupee"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:106
+msgid "Israeli new shekel"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:107
+msgid "Japanese yen 1"
+msgstr ""
+
+#: theme-options/settings/settings.php:92
+#: theme-options/settings/settings.php:97
+#: theme-options/post_type/metaboxes/metabox.php:395
+msgid "Left"
+msgstr ""
+
+#: theme-options/settings/settings.php:591
+#: theme-options/settings/settings.php:607
+msgid "Left Sidebar"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components/typography.php:59
+msgid "Letter Spacing"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components/typography.php:48
+msgid "Light"
+msgstr ""
+
+#: theme-options/settings/settings.php:178
+msgid "Limit"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components/typography.php:35
+msgid "Line Height"
+msgstr ""
+
+#: theme-options/settings/settings.php:246
+msgid "Links color"
+msgstr ""
+
+#: theme-options/settings/settings.php:251
+msgid "Links color on action"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:125
+msgid "Live"
+msgstr ""
+
+#: theme-options/settings/settings.php:583
+msgid "Load IDXBroker Style"
+msgstr ""
+
+#: theme-options/settings/settings.php:599
+msgid "Load iHomefinder Style"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:108
+msgid "Malaysian ringgit 2\t"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components/typography.php:73
+msgid "Margin Bottom"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components/typography.php:68
+msgid "Margin Top"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components/multimedia.php:7
+msgid "Media URL"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components/typography.php:50
+msgid "Medium"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:109
+msgid "Mexican peso"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/fields/duration.php:24
+msgid "Minutes"
+msgstr ""
+
+#: widgets/class-stm-nav-menu-widget.php:53
+msgid "More"
+msgstr ""
+
+#: theme-options/post_type/posts.php:102
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: theme-options/post_type/taxonomies.php:30
+msgid "New services category Name"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:110
+msgid "New Taiwan dollar 1"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:111
+msgid "New Zealand dollar"
+msgstr ""
+
+#: theme-options/post_type/posts.php:109
+#, php-format
+msgid "No %s found in Trash."
+msgstr ""
+
+#: theme-options/post_type/posts.php:108
+#, php-format
+msgid "No %s found."
+msgstr ""
+
+#: widgets/class-stm-nav-menu-widget.php:137
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: theme-options/settings/settings.php:80
+#: theme-options/settings/settings.php:83
+msgid "No Sidebar"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/metabox.php:170
+msgid "No sidebar"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:112
+msgid "Norwegian krone"
+msgstr ""
+
+#: widgets/gallery.php:111
+msgid "Number of images:"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:15
+msgid "Offline payment"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/metabox.php:417
+msgid "Page ID"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/metabox.php:115
+msgid "Page options"
+msgstr ""
+
+#: theme-options/post_type/posts.php:107
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: theme-options/post_type/taxonomies.php:25
+msgid "Parent services category"
+msgstr ""
+
+#: theme-options/post_type/taxonomies.php:26
+msgid "Parent services category:"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:19
+#: theme-options/post_type/metaboxes/components_js/payments.php:45
+#: theme-options/post_type/metaboxes/components_js/payments.php:71
+#: theme-options/post_type/metaboxes/components_js/payments.php:89
+msgid "Payment method description"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:51
+msgid "Paypal"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:55
+msgid "PayPal Email"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:67
+msgid "PayPal mode"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:113
+msgid "Philippine peso"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/metabox.php:162
+msgid "Please activate elementor-header-footer plugin"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:114
+msgid "Polish złoty"
+msgstr ""
+
+#: widgets/gallery.php:132
+msgid "Post type:"
+msgstr ""
+
+#: theme-options/settings/settings.php:382
+msgid "Post types"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:115
+msgid "Pound sterling"
+msgstr ""
+
+#: theme-options/settings/settings.php:211
+msgid "Primary color"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:81
+msgid "Publishable key"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components/faq.php:17
+msgid "Question"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/metabox.php:103
+#: theme-options/post_type/metaboxes/metabox.php:111
+#: theme-options/post_type/metaboxes/metabox.php:181
+#: theme-options/post_type/metaboxes/metabox.php:231
+msgid "Rank position"
+msgstr ""
+
+#: theme-options/settings/settings.php:192
+msgid "Rating"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components/typography.php:49
+msgid "Regular"
+msgstr ""
+
+#: theme-options/settings/settings.php:468
+#: theme-options/post_type/metaboxes/metabox.php:530
+msgid "Related posts"
+msgstr ""
+
+#: theme-options/settings/settings.php:143
+#: theme-options/post_type/metaboxes/metabox.php:248
+msgid "Relative"
+msgstr ""
+
+#: theme-options/settings/settings.php:193
+msgid "Review count"
+msgstr ""
+
+#: theme-options/settings/settings.php:93
+#: theme-options/settings/settings.php:98
+#: theme-options/post_type/metaboxes/metabox.php:394
+msgid "Right"
+msgstr ""
+
+#: theme-options/settings/settings.php:592
+#: theme-options/settings/settings.php:608
+msgid "Right Sidebar"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:116
+msgid "Russian ruble"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:124
+msgid "Sandbox"
+msgstr ""
+
+#: theme-options/settings/view/main.php:25
+msgid "Save Settings"
+msgstr ""
+
+#: theme-options/post_type/posts.php:106
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: theme-options/post_type/taxonomies.php:23
+msgid "Search services category"
+msgstr ""
+
+#: theme-options/settings/settings.php:216
+msgid "Secondary color"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:85
+msgid "Secret key"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:96
+msgid "Select Currency code"
+msgstr ""
+
+#: widgets/class-stm-nav-menu-widget.php:145
+msgid "Select Menu:"
+msgstr ""
+
+#: theme-options/settings/settings.php:155
+msgid "Select sidebar"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components/typography.php:51
+msgid "Semi-bold"
+msgstr ""
+
+#: theme-options/settings/settings.php:473
+msgid "Services"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/metabox.php:548
+msgid "Services box"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/metabox.php:123
+msgid "Services options"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/metabox.php:280
+#: theme-options/post_type/metaboxes/metabox.php:291
+#: theme-options/post_type/metaboxes/metabox.php:409
+#: theme-options/post_type/metaboxes/metabox.php:434
+#: theme-options/post_type/metaboxes/metabox.php:445
+#: theme-options/post_type/metaboxes/metabox.php:456
+#: theme-options/post_type/metaboxes/metabox.php:467
+#: theme-options/post_type/metaboxes/metabox.php:478
+#: theme-options/post_type/metaboxes/metabox.php:489
+#: theme-options/post_type/metaboxes/metabox.php:500
+#: theme-options/post_type/metaboxes/metabox.php:511
+#: theme-options/post_type/metaboxes/metabox.php:522
+#: theme-options/post_type/metaboxes/metabox.php:533
+#: theme-options/post_type/metaboxes/metabox.php:555
+#: theme-options/post_type/metaboxes/metabox.php:566
+msgid "Show"
+msgstr ""
+
+#: theme-options/settings/settings.php:453
+#: theme-options/post_type/metaboxes/metabox.php:497
+msgid "Show author info"
+msgstr ""
+
+#: theme-options/settings/settings.php:315
+#: theme-options/post_type/metaboxes/metabox.php:288
+msgid "Show breadcrumbs"
+msgstr ""
+
+#: theme-options/settings/settings.php:423
+#: theme-options/post_type/metaboxes/metabox.php:431
+msgid "Show categories"
+msgstr ""
+
+#: theme-options/settings/settings.php:463
+#: theme-options/post_type/metaboxes/metabox.php:519
+msgid "Show comments"
+msgstr ""
+
+#: theme-options/settings/settings.php:546
+msgid "Show copyright symbol"
+msgstr ""
+
+#: theme-options/settings/settings.php:550
+msgid "Show current year"
+msgstr ""
+
+#: theme-options/settings/settings.php:438
+#: theme-options/settings/settings.php:512
+#: theme-options/post_type/metaboxes/metabox.php:464
+#: theme-options/post_type/metaboxes/metabox.php:552
+msgid "Show excerpt"
+msgstr ""
+
+#: theme-options/settings/settings.php:428
+#: theme-options/post_type/metaboxes/metabox.php:442
+msgid "Show info box"
+msgstr ""
+
+#: theme-options/settings/settings.php:458
+#: theme-options/post_type/metaboxes/metabox.php:508
+msgid "Show prev next buttons"
+msgstr ""
+
+#: theme-options/settings/settings.php:433
+#: theme-options/post_type/metaboxes/metabox.php:453
+msgid "Show share"
+msgstr ""
+
+#: theme-options/settings/settings.php:448
+#: theme-options/post_type/metaboxes/metabox.php:486
+msgid "Show tags"
+msgstr ""
+
+#: theme-options/settings/settings.php:443
+#: theme-options/settings/settings.php:507
+#: theme-options/post_type/metaboxes/metabox.php:475
+#: theme-options/post_type/metaboxes/metabox.php:563
+msgid "Show thumbnail"
+msgstr ""
+
+#: theme-options/settings/settings.php:310
+#: theme-options/post_type/metaboxes/metabox.php:277
+msgid "Show title"
+msgstr ""
+
+#: theme-options/settings/settings.php:151
+#: theme-options/settings/settings.php:390
+#: theme-options/settings/settings.php:477
+#: theme-options/post_type/metaboxes/metabox.php:380
+#: theme-options/post_type/metaboxes/metabox.php:384
+msgid "Sidebar"
+msgstr ""
+
+#: theme-options/settings/settings.php:162
+#: theme-options/settings/settings.php:397
+#: theme-options/settings/settings.php:484
+#: theme-options/post_type/metaboxes/metabox.php:391
+msgid "Sidebar Position"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:117
+msgid "Singapore dollar"
+msgstr ""
+
+#: theme-options/settings/settings.php:415
+msgid "Single Page Style"
+msgstr ""
+
+#: theme-options/settings/settings.php:499
+msgid "Single Style"
+msgstr ""
+
+#: theme-options/settings/settings.php:189
+msgid "Sort by"
+msgstr ""
+
+#: widgets/gallery.php:13
+msgid "STM Posts Gallery"
+msgstr ""
+
+#: widgets/gallery.php:10
+msgid "STM Posts Gallery widget"
+msgstr ""
+
+#: widgets/class-stm-nav-menu-widget.php:29
+msgid "STM Property Menu"
+msgstr ""
+
+#: widgets/services_cat.php:29
+msgid "STM Services categories"
+msgstr ""
+
+#: widgets/testimonials.php:29
+msgid "STM Testimonials"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:77
+msgid "Stripe"
+msgstr ""
+
+#: theme-options/settings/settings.php:322
+#: theme-options/settings/settings.php:406
+#: theme-options/settings/settings.php:417
+#: theme-options/settings/settings.php:493
+#: theme-options/settings/settings.php:501
+#: theme-options/post_type/metaboxes/metabox.php:270
+msgid "Style 1"
+msgstr ""
+
+#: theme-options/settings/settings.php:329
+msgid "Style 1 settings:"
+msgstr ""
+
+#: theme-options/settings/settings.php:323
+#: theme-options/settings/settings.php:407
+#: theme-options/post_type/metaboxes/metabox.php:271
+msgid "Style 2"
+msgstr ""
+
+#: theme-options/settings/settings.php:353
+msgid "Style 2 settings:"
+msgstr ""
+
+#: theme-options/settings/settings.php:408
+msgid "Style 3"
+msgstr ""
+
+#: theme-options/settings/settings.php:409
+msgid "Style 4"
+msgstr ""
+
+#. Author of the plugin
+msgid "StylemixThemes"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:118
+msgid "Swedish krona"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:41
+msgid "Swift"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:119
+msgid "Swiss franc"
+msgstr ""
+
+#: theme-options/post_type/taxonomies.php:21
+msgctxt "taxonomy general name"
+msgid "Services category"
+msgstr ""
+
+#: theme-options/post_type/taxonomies.php:22
+msgctxt "taxonomy singular name"
+msgid "Services category"
+msgstr ""
+
+#: theme-options/settings/settings.php:357
+#: theme-options/post_type/metaboxes/metabox.php:335
+msgid "Text color"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:120
+msgid "Thai baht"
+msgstr ""
+
+#: theme-options/settings/view/main.php:15
+msgid "Theme Options"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components/typography.php:47
+msgid "Thin"
+msgstr ""
+
+#: theme-options/settings/settings.php:221
+msgid "Third color"
+msgstr ""
+
+#: theme-options/settings/settings.php:306
+#: theme-options/post_type/metaboxes/metabox.php:263
+msgid "Title box"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/metabox.php:267
+msgid "Title box style"
+msgstr ""
+
+#: widgets/gallery.php:101 widgets/class-stm-nav-menu-widget.php:141
+#: widgets/testimonials.php:132 widgets/services_cat.php:104
+msgid "Title:"
+msgstr ""
+
+#: theme-options/settings/settings.php:257
+msgid "Typography"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components/typography.php:53
+msgid "Ultra Bold"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:121
+msgid "United States dollar"
+msgstr ""
+
+#: theme-options/post_type/taxonomies.php:28
+msgid "Update services category"
+msgstr ""
+
+#: theme-options/post_type/posts.php:104
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/metabox.php:541
+msgid "Views count"
+msgstr ""
+
+#: theme-options/settings/settings.php:615
+msgid "Virtual page Elementor header"
+msgstr ""
+
+#: theme-options/post_type/metaboxes/components_js/payments.php:25
+msgid "Wire Transfer"
+msgstr ""
+
+#: theme-options/settings/settings.php:169
+msgid "Yelp Nearby settings"
+msgstr ""

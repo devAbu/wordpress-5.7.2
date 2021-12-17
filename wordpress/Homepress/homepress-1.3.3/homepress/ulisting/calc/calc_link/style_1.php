@@ -1,0 +1,1 @@
+<a href="#mortgage_calc"><?php esc_html_e( 'Est. Mortgage calculator', 'homepress' ); ?> <span class="property-icon-chevron-circle-down"></span></a>
